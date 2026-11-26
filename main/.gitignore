@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-*.pt
-*.pth
-*.npz
-RUNS/
-runs/
-data/
-*.log
